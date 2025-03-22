@@ -928,7 +928,7 @@ import random
 import openai
 
 def group_selected_features_via_chatgpt(best_features):
-	#openai.api_key = 'sk-proj-nEeoauNVvLUy9UEQYgRUT3BlbkFJjrXV0aWAmaMazu8xC5P9'
+	#openai.api_key = ''
 	client = openai.OpenAI()
 	# Construct the message to send to ChatGPT
 	prompt = (
