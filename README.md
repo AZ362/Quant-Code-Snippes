@@ -3,8 +3,8 @@
 
 This repository is structured into three main directories:
 
-1️⃣ ML/ (Machine Learning for Trading) 📌 This folder contains snippets of code for machine learning models used in AI-powered trading systems. Contents include: ML learners implementation Utility functions for data processing & feature engineering Main scripts integrating ML with trading algorithms
+1️⃣ ML models Snippets/ (Machine Learning for Trading) 📌 This folder contains snippets of code for machine learning models used in AI-powered trading systems. Contents include: ML learners implementation Utility functions for data processing & feature engineering Main scripts integrating ML with trading algorithms
 
-2️⃣ Bots_Snippets/ (Trading Bot Utilities) 📌 This folder contains code snippets and utilities for automated trading bots running on MetaTrader5 (MT5) and Binance. Contents include: Supervisor utilities for managing multiple trading bots Core trading bot functions (order execution, trade management) Integration with MT5 and Binance API
+2️⃣ Trading Bots Snippets/ (Trading Bot Utilities) 📌 This folder contains code snippets and utilities for automated trading bots running on MetaTrader5 (MT5) and Binance. Contents include: Supervisor utilities for managing multiple trading bots Core trading bot functions (order execution, trade management) Integration with MT5 and Binance API
 
-3️⃣ Strategies/ (Backtesting & Optimization) 📌 This folder contains scripts and functions for backtesting and optimizing trading strategies. Contents include: Historical data processing Backtesting scripts for evaluating strategy performance Optimization techniques to refine trading strategies
+3️⃣ Backtesters Snippets/ (Backtesting & Optimization) 📌 This folder contains scripts and functions for backtesting and optimizing trading strategies. Contents include: Historical data processing Backtesting scripts for evaluating strategy performance Optimization techniques to refine trading strategies
